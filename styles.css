@@ -1,0 +1,140 @@
+nav{ display: flex;
+    justify-content: space-between;
+    }
+    nav > ul { display: flex;}
+    nav li{ list-style: none; margin-right: 40px; 
+    }
+    nav li a{ text-decoration: none;
+    color:black ;}
+    header{ background-color: #ffffff;}
+
+    .gamer{ margin-left: 300px;}
+
+    .nav_soc{ background-color:#f5f2ff;}
+    .pink_g{ color: rgb(255, 0, 149);}
+
+    .btn_rogue{ background-color: rgb(0, 238, 255); padding: 20px 27px; font-family:Georgia,
+         'Times New Roman', Times, serif ; font-weight: 600; font-size: 15px;
+    color: white;border-radius: 25px; border: none;}
+    .btn_sign{
+        background-color: rgb(255, 0, 149); padding: 20px 27px; font-family:Georgia,
+        'Times New Roman', Times, serif ; font-weight: 600; font-size: 15px;
+    color: white; border-radius: 25px; border: none
+    }
+
+
+    .btn_header{ gap: 20px;}
+
+    .header_content{ display: flex; margin-left: 300px; }
+    .header_img{ margin-left: 450px;}
+
+    .header_description{ margin-top: 110px;}
+    .goat{ font-size: 50px; font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #AD53DC;}
+    .play{ font-family:Georgia, 'Times New Roman', Times, serif ; 
+     font-size: 35px;}
+
+     .first_part{ display: flex; background-color:#fafafa;
+    
+    }
+
+    .main_content{ text-align: right; 
+    margin-top: 50px; margin-right: 80px;
+    }
+    
+    
+
+    .gamer_title{ font-size: 30px; color:slateblue ; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+    .main_pg{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;}
+
+    .btn_know{background-color:#ff00d9; padding: 20px 27px; font-family:Georgia,
+        'Times New Roman', Times, serif ; font-weight: 600; font-size: 15px;
+    color: white; border-radius: 25px; border: none
+    
+    }
+
+    .purpose{ font-weight: 300; font-size: 22px;}
+
+    .unleash{ font-family: 'Lucida Sans', 
+         'Lucida Sans Regular', 'Lucida Grande', 
+         'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         color: hsl(0, 0%, 37%);
+    font-style:inherit; font-size: 28px;
+    
+    }
+
+    .games_section{ text-align: center; margin-top: 75px;
+    
+    }
+    .games{ display: flex; justify-content: center; gap: 20px;
+    }
+
+
+.one:hover{ border: 3px solid blue;}
+
+.online_title{ font-size: 35px; font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+     'Helvetica Neue', sans-serif;}
+
+     .second_section{ display: flex; margin-top: 75px;}
+     .second_content{ margin-top: 220px;  justify-content: center;
+        margin-left: 280px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    }
+    .cowboy{}
+    .angle{ margin-left: -800px; margin-bottom: -80px;
+    }
+
+    .two_pics{ margin-left: 350px;}
+    .second_pg{ font-size: 15px; color: rgb(132, 132, 132);}
+
+  .last_part{ margin-top: 130px; display: flex; justify-content: center;
+background-color: #FF42A5;
+}
+  .last_content{ margin-left: 150px; padding-top: 110px; color: azure;} 
+  .grp_pic{ margin-bottom: 100px;}
+
+    .see_btn{ margin-top: 15px;color: #ff0095; background-color: white;font-family: 'Segoe UI', Tahoma, 
+        Geneva, Verdana, sans-serif;
+    padding: 14px 18px; border-radius: 25px; border-style: none;}
+    .category{ margin-top: 100px;}
+
+    .games_type{ display: flex; gap: 10px; border: 1px solid black; border-style: none;
+     background-color: rgb(235, 235, 235); border-radius: 25px;
+     padding: 5px; 
+     
+    }
+    .category{ display: grid; gap: 20px; 
+    justify-content: center; grid-template-columns: auto auto auto auto auto ;
+
+    }
+
+    .category .games_type img{ width: 20%; 
+    padding: 10px;
+    
+    }
+.gamer_logo{ text-align: center; font-size: 30px;
+margin-top: 45px; padding-top: 50px;
+}
+    
+.features , .social_icons , .policy
+{ display: flex; list-style: none; gap: 35px; font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif; color: white;
+ justify-content: center;}
+
+ .last_pg{ text-align: center; padding-bottom: 45px; color: #cacaca;
+    font-weight: 200;
+
+}
+
+ .social_icons , .policy{ margin-top: 30px;}
+ .last_section{ background-color: rgb(43, 13, 78);
+
+}
+.amer{ color: white;}
+
+
